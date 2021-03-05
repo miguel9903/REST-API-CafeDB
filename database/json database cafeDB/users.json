@@ -1,0 +1,177 @@
+[{
+  "_id": {
+    "$oid": "603b2012f0e81d1838e33666"
+  },
+  "state": true,
+  "google": false,
+  "name": "User 01",
+  "email": "test1@test.com",
+  "password": "$2a$10$YE5ZtnPpEBbwb4hRguaS5eOTRqQae6ntiIKJf/FXGWOLqD4rVeXri",
+  "role": "USER_ROLE",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "603b2023f0e81d1838e33667"
+  },
+  "state": true,
+  "google": false,
+  "name": "User 02",
+  "email": "test2@test.com",
+  "password": "$2a$10$jvF9DocLSrsBarrhNAAgAuMVZSrugtOowD0Ofv2QCr4ZcgrKrI8sS",
+  "role": "USER_ROLE",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "603b2036f0e81d1838e33668"
+  },
+  "state": true,
+  "google": false,
+  "name": "User 03",
+  "email": "test3@test.com",
+  "password": "$2a$10$jFyx1bzahSDBTle6EWa/RO5mGfl46ZPvg9jtGNqkFQuuUnU3ViwLG",
+  "role": "USER_ROLE",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "603b203df0e81d1838e33669"
+  },
+  "state": true,
+  "google": false,
+  "name": "User 04",
+  "email": "test4@test.com",
+  "password": "$2a$10$0xsygSxZXMNRqL7bRobYhuSPuTdyY9SOexZdk5BCLlFTQlsixwkO2",
+  "role": "USER_ROLE",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "603b2066f0e81d1838e3366a"
+  },
+  "state": true,
+  "google": false,
+  "name": "User 05",
+  "email": "test5@test.com",
+  "password": "$2a$10$HZVVo9Ol0fWr9FtQBMJEvepQSHq3Jto8u.vlxqh1Z6SMSp66hjc/i",
+  "role": "USER_ROLE",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "603b206cf0e81d1838e3366b"
+  },
+  "state": true,
+  "google": false,
+  "name": "User 06",
+  "email": "test6@test.com",
+  "password": "$2a$10$29NYMNuxryZv33866RThf.amdHKz6sk99DhOZTtWXTZNkTJZJEANe",
+  "role": "USER_ROLE",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "603b20f1f0e81d1838e3366c"
+  },
+  "state": true,
+  "google": false,
+  "name": "User 07",
+  "email": "test7@test.com",
+  "password": "$2a$10$EPNizo5uTH1NXoy1cBsf/etqtjJwevfIv5tu4gol6Faw5x5PAo.ry",
+  "role": "USER_ROLE",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "603b20f8f0e81d1838e3366d"
+  },
+  "state": true,
+  "google": false,
+  "name": "User 08",
+  "email": "test8@test.com",
+  "password": "$2a$10$uIqeQ9q5CeQPe9JD.Iyo9O1WXqf.WJ6rhyVWMBO2xDqCYMPmsDR/C",
+  "role": "USER_ROLE",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "603b20fef0e81d1838e3366e"
+  },
+  "state": true,
+  "google": false,
+  "name": "User 09",
+  "email": "test9@test.com",
+  "password": "$2a$10$A1f4ruyVHEenfIIf9CU3l.SLHzNONIkudVL68cVDObjfpL/.eiznG",
+  "role": "USER_ROLE",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "603b2105f0e81d1838e3366f"
+  },
+  "state": true,
+  "google": false,
+  "name": "User 10",
+  "email": "test10@test.com",
+  "password": "$2a$10$R93pKoTxuJlDc9nwGHbRfutq3mDLCvochqLUDTAIDuWm/5e8jnyIq",
+  "role": "USER_ROLE",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "603b210af0e81d1838e33670"
+  },
+  "state": true,
+  "google": false,
+  "name": "User 11",
+  "email": "test11@test.com",
+  "password": "$2a$10$aWlcuF4Gh5SzEvjkZOqbz.iZ2hPDeSj62wQswy/TzbmygSkFZOnda",
+  "role": "USER_ROLE",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "603b210ff0e81d1838e33671"
+  },
+  "state": true,
+  "google": false,
+  "name": "User 12",
+  "email": "test12@test.com",
+  "password": "$2a$10$VgjT2pUSvoZs3TzjWjKVI.WDdrseau7Aw7TDrpR8T6d56GkwXekwm",
+  "role": "USER_ROLE",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "603b2115f0e81d1838e33672"
+  },
+  "state": true,
+  "google": false,
+  "name": "User 13",
+  "email": "test13@test.com",
+  "password": "$2a$10$8333hD7d/8uSaFt/HOmhveyaukRcXYwn/VplvYpgQwZwhT1BrXVY6",
+  "role": "USER_ROLE",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "603b2119f0e81d1838e33673"
+  },
+  "state": true,
+  "google": false,
+  "name": "User 14",
+  "email": "test14@test.com",
+  "password": "$2a$10$0NWkN5jQDHv6VMScWZcah.DBPCj6xTJdJJUYRwuoDNfMfYHZNVV42",
+  "role": "USER_ROLE",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "603b211ef0e81d1838e33674"
+  },
+  "state": true,
+  "google": false,
+  "name": "User 15",
+  "email": "test15@test.com",
+  "password": "$2a$10$5Zc8AfaDbfi19MZm0KGPAu55rCCWnb2ZOkuLq5qul2I/HFt7YDAL2",
+  "role": "USER_ROLE",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "603b3276a3279d18480fbcce"
+  },
+  "state": true,
+  "google": false,
+  "name": "User 16",
+  "email": "test16@test.com",
+  "password": "$2a$10$kg3AudhjxpaM4prnESEMren09xNL7w.u.T2TJcR.31UnhFkWRDAZW",
+  "role": "USER_ROLE",
+  "__v": 0
+}]
